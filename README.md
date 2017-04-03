@@ -181,7 +181,15 @@ MetricBoy is a client for querying, plotting and predicating metric data. Runnin
 
 ### 1.metric
 ***
+![argus custom query latency](https://cloud.githubusercontent.com/assets/7905330/24633842/66734b00-187f-11e7-9bd7-31618e44a713.png)
 ### 2.dashboard
 ***
+
+![argus core datapoint readsargus core datapoint writes_dashboard](https://cloud.githubusercontent.com/assets/7905330/24633848/7ac7358a-187f-11e7-90c7-d81d56e62ad0.png)
 ### 3.predictation
+***
+
+![predicted_6000dp_1000epoch](https://cloud.githubusercontent.com/assets/7905330/24633878/a810b494-187f-11e7-9dde-8f34e1a45a50.png)
+![test_6000dp_1000epoch](https://cloud.githubusercontent.com/assets/7905330/24633883/b259712a-187f-11e7-8f42-6f97ba290952.png)
+
 
