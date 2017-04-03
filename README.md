@@ -182,3 +182,4 @@ MetricBoy is a client for querying, plotting and predicating metric data. Runnin
 ### 1.metric
 ***
 custom:query.latency{timeWindow=within_24_hrs}:avg" predicate --epoch 50
+
