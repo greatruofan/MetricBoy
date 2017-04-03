@@ -177,9 +177,11 @@ MetricBoy is a client for querying, plotting and predicating metric data. Runnin
             optional arguments:
               -h, --help     show this help message and exit
               --epoch EPOCH  epoch configuration for recurrent neural network
-## Output Screenshots:
+## Output Screenshot Example:
 
 ### 1.metric
 ***
-custom:query.latency{timeWindow=within_24_hrs}:avg" predicate --epoch 50
+### 2.dashboard
+***
+### 3.predictation
 
